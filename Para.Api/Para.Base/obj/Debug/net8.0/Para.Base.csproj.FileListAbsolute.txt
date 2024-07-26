@@ -1,0 +1,12 @@
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/bin/Debug/net8.0/Para.Base.deps.json
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/bin/Debug/net8.0/Para.Base.dll
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/bin/Debug/net8.0/Para.Base.pdb
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.AssemblyInfoInputs.cache
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.AssemblyInfo.cs
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.csproj.CoreCompileInputs.cache
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.sourcelink.json
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.dll
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/refint/Para.Base.dll
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/Para.Base.pdb
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Base/obj/Debug/net8.0/ref/Para.Base.dll
