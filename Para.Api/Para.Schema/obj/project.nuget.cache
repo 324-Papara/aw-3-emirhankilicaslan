@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dI0D6kwmvxKXRrL4FSwOqUQL9x/mpBb1ZabTB8jm6Ytk7egSuZo9V59uTIzOmsrQgxJgFNC9lCTV7alDoqFkg==",
+  "success": true,
+  "projectFilePath": "/Users/emirhankilicaslan/Desktop/aspnet-core-project/aw-3-emirhankilicaslan/Para.Api/Para.Schema/Para.Schema.csproj",
+  "expectedPackageFiles": [
+    "/Users/emirhankilicaslan/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/emirhankilicaslan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
